@@ -1,0 +1,48 @@
+{
+  "hotel_id": "string",
+  "master_id": 0,
+  "hotel": {
+    "check_in_time": "string",
+    "check_out_time": "string",
+    "front_desk_time_end": "string",
+    "front_desk_time_start": "string",
+    "email": "string",
+    "is_favorite": true,
+    "kind": "string",
+    "phone": "string",
+    "region_id": 0,
+    "reviews": 0,
+    "room_groups": [
+      {
+        "name": "string",
+        "rg_hash": "string",
+        "thumbnail_url": "string",
+        "size": 0
+      }
+    ],
+    "address": "string",
+    "city": "string",
+    "country": "string",
+    "distance": 0,
+    "otahotel_id": "string",
+    "master_id": 0,
+    "name": "string",
+    "star_rating": 0,
+    "static_currency_code": "string",
+    "facts": {
+      "year_built": 0,
+      "year_renovated": 0,
+      "rooms_number": 0,
+      "floors_number": 0,
+      "has_room_wifi": true,
+      "has_hotel_wifi": true,
+      "sockets": [
+        {
+          "socket_type": "string",
+          "voltage": 0,
+          "frequency": 0
+        }
+      ]
+    }
+  }
+}
